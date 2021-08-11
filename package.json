@@ -1,0 +1,17 @@
+{
+  "name": "api-project1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "portman": "^0.0.3",
+    "postman": "^0.2.0"
+  },
+  "description": ""
+}
